@@ -1,85 +1,111 @@
 
+<!-- ===================== HERO SECTION ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,50:243B55,100:00A8E8&text=PYTHON%20FROM%20ZERO%20TO%20HERO&fontSize=39&fontColor=ffffff&fontAlignY=40&desc=Learn%20%7C%20Code%20%7C%20Build%20%7C%20Grow&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:6A11CB,45:9B23EA,100:FF8C42&text=PYTHON%20FROM%20ZERO%20TO%20HERO&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Explore%20Python.%20Build%20Logic.%20Create%20Possibilities.&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFD43B&center=true&vCenter=true&width=700&lines=Starting+with+the+Basics.;Learning+Python+Step+by+Step.;Turning+Logic+into+Code.;From+Zero+to+Hero!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Python+Programming+%26+Problem+Solving;Exploring+Data+Science+Libraries;From+Basic+Syntax+to+Advanced+Concepts;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/>
 
 <br/><br/>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Course](https://img.shields.io/badge/Programming-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)]()
-[![Semester](https://img.shields.io/badge/Semester-02-blueviolet?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Actively_Learning-2EA44F?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
+[![Course](https://img.shields.io/badge/Python-Programming-8B5CF6?style=for-the-badge)]()
+[![Semester](https://img.shields.io/badge/Semester-02-EC4899?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Actively_Learning-16A34A?style=for-the-badge)]()
 
 <br/>
 
-**My journey of learning Python — one concept, one program, and one lab at a time.**
+### 🐍 A journey from writing my first Python program to exploring the world of AI and Data Science.
 
 <br/>
 
 <a href="#-about-the-project">About</a> •
 <a href="#-topics-covered">Topics</a> •
-<a href="#-repository-structure">Lab Structure</a> •
-<a href="#-getting-started">Get Started</a>
+<a href="#-libraries--ecosystem">Libraries</a> •
+<a href="#-repository-structure">Labs</a> •
+<a href="#-connect-with-me">Connect</a>
 
 </div>
 
 ---
 
-## 🐍 About the Project
+## 🌟 About the Project
 
-Welcome to **Python from Zero To Hero!** 🚀
+Welcome to **Python from Zero To Hero!**
 
-This repository is a collection of my Python programming laboratory assignments, practical implementations, coding exercises, and problem-solving tasks completed throughout my university coursework.
+This repository documents my Python programming journey through university laboratory assignments, hands-on coding exercises, practical implementations, and problem-solving challenges.
 
-The journey begins with fundamental Python concepts and gradually moves toward advanced programming techniques, data structures, algorithms, and object-oriented programming.
+Starting from fundamental programming concepts, this collection gradually explores advanced Python techniques, data structures, algorithms, data analysis, visualization, and machine learning libraries.
 
-My focus is not just on writing code, but on understanding programming logic, developing computational thinking, and building a strong foundation for my future in **Artificial Intelligence and Machine Learning**.
+As a BS Artificial Intelligence student, my goal is to develop strong programming fundamentals and explore the Python ecosystem that powers modern AI, Machine Learning, and Data Science.
 
-> 💡 Every expert programmer was once a beginner. This repository documents my journey from the basics to building confidence in Python.
+**More than just code, this repository represents my learning, experimentation, and continuous improvement.**
+
+> 💡 Learn the fundamentals. Explore the possibilities. Build something meaningful.
+
+---
+
+## 🎯 What Am I Learning?
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍
+**Python Programming**
+
+Core syntax, logic, functions, and OOP.
+
+</td>
+<td align="center" width="33%">
+
+### 📊
+**Data Science**
+
+Data manipulation, analysis, and visualization.
+
+</td>
+<td align="center" width="33%">
+
+### 🤖
+**AI Foundations**
+
+Exploring scientific computing and machine learning tools.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 📚 Topics Covered
 
-<div align="center">
-
-### 🧩 Python Fundamentals
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 Programming Basics
+### 🟢 Python Fundamentals
 
-- Python Introduction
+- Introduction to Python
 - Variables and Data Types
 - Input and Output
-- Type Conversion
 - Operators and Expressions
-
-</td>
-<td width="50%" valign="top">
+- Type Conversion
 
 ### 🔀 Control Flow
 
 - Conditional Statements
 - If, Elif and Else
 - Nested Conditions
-- For Loops
-- While Loops
+- For and While Loops
 - Break and Continue
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### ⚙️ Functions
 
@@ -87,7 +113,7 @@ My focus is not just on writing code, but on understanding programming logic, de
 - Parameters and Arguments
 - Return Statements
 - Default Arguments
-- Recursive Functions
+- Recursion
 - Built-in Functions
 
 </td>
@@ -99,14 +125,8 @@ My focus is not just on writing code, but on understanding programming logic, de
 - Tuples
 - Sets
 - Dictionaries
-- Collection Operations
 - List Comprehensions
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+- Nested Collections
 
 ### 🔤 Strings
 
@@ -114,10 +134,6 @@ My focus is not just on writing code, but on understanding programming logic, de
 - String Slicing
 - String Methods
 - String Formatting
-- Character Operations
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧱 Object-Oriented Programming
 
@@ -130,34 +146,24 @@ My focus is not just on writing code, but on understanding programming logic, de
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📂 File Handling
 
-- Reading Files
-- Writing Files
+- Reading and Writing Files
+- File Modes
 - Appending Data
-- Working with File Modes
 - File Operations
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚠️ Exception Handling
 
-- Syntax Errors
-- Runtime Errors
-- Logical Errors
+- Types of Errors
 - Try and Except
 - Finally Block
 - Raising Exceptions
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 Algorithms & Problem Solving
@@ -165,19 +171,16 @@ My focus is not just on writing code, but on understanding programming logic, de
 - Linear Search
 - Binary Search
 - Sorting Fundamentals
-- Logical Problems
-- Programming Challenges
+- Logical Programming
+- Practical Coding Challenges
 
-</td>
-<td width="50%" valign="top">
+### 📈 Data Analysis & Visualization
 
-### 🧮 Advanced Practice
-
-- Data Structures
-- Algorithmic Thinking
-- Nested Data Structures
-- Practical Programming Exercises
-- Real-World Problem Solving
+- NumPy Fundamentals
+- Pandas DataFrames
+- Data Cleaning
+- Matplotlib
+- Seaborn Visualizations
 
 </td>
 </tr>
@@ -185,38 +188,46 @@ My focus is not just on writing code, but on understanding programming logic, de
 
 ---
 
-## 🎯 Repository Objectives
+## 🧰 Libraries & Ecosystem
 
-- Build a strong foundation in Python programming.
-- Understand programming concepts through practical implementation.
-- Develop logical and analytical thinking.
-- Improve problem-solving and debugging skills.
-- Practice university laboratory assignments.
-- Explore object-oriented programming and algorithms.
-- Prepare for advanced concepts in AI and Machine Learning.
-- Maintain a structured record of my programming journey.
-
----
-
-## 🛠️ Technologies & Tools
+Exploring the powerful Python ecosystem used in scientific computing, data analysis, visualization, and artificial intelligence.
 
 <div align="center">
 
-| Technology | Purpose |
-|:---:|---|
-| <img src="https://skillicons.dev/icons?i=python" width="35"/> **Python** | Core programming language |
-| <img src="https://skillicons.dev/icons?i=vscode" width="35"/> **VS Code** | Code development |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35"/> **Jupyter Notebook** | Interactive coding and experimentation |
-| <img src="https://skillicons.dev/icons?i=git" width="35"/> **Git** | Version control |
-| <img src="https://skillicons.dev/icons?i=github" width="35"/> **GitHub** | Code hosting and collaboration |
+### 📊 Data Analysis & Scientific Computing
+
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/></a>
+
+### 📈 Data Visualization
+
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://plotly.com/python/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/></a>
+
+### 🤖 Machine Learning & AI
+
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+
+### 💻 Development Environment
+
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
+*Note: These badges represent technologies and libraries in the learning ecosystem. Their actual use will depend on the corresponding lab tasks and projects.*
+
 ---
 
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
-All programming tasks are organized according to university laboratory sessions for easy navigation and reference.
+All practical work is organized according to university laboratory sessions.
 
 ```text
 Python-from-Zero-To-Hero/
@@ -235,68 +246,52 @@ Python-from-Zero-To-Hero/
 └── 📄 README.md
 ```
 
-### 📌 Inside Each Lab
+### 📌 Lab Contents
 
-Each laboratory folder may contain:
+Each laboratory folder may include:
 
-- Python source code (`.py`)
-- Assigned programming questions
+- Python source files (`.py`)
+- Jupyter Notebooks (`.ipynb`)
+- Assigned questions and solutions
 - Practical exercises
-- Problem-solving implementations
-- Output screenshots (where applicable)
+- Data analysis and visualization examples
+- Output screenshots where applicable
 
-*New laboratory folders and tasks will be added as the semester progresses.*
+*New labs and practical tasks will be added throughout the semester.*
 
 ---
 
 ## 🚀 Getting Started
 
-Want to explore or run the programs? Follow these steps.
-
-**1. Clone the repository**
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Taha-Shaikh7/Python-from-Zero-To-Hero.git
 ```
 
-**2. Navigate to the project directory**
+### 2. Open the Project
 
 ```bash
 cd Python-from-Zero-To-Hero
 ```
 
-**3. Navigate to any laboratory**
+### 3. Install Required Libraries
 
 ```bash
-cd Lab-01
+pip install numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
-**4. Run a Python file**
+### 4. Run a Python Program
 
 ```bash
 python filename.py
 ```
 
-**Prerequisite:** Python 3.x installed on your system.
+### 5. Launch Jupyter Notebook
 
----
-
-## 🌱 My Learning Journey
-
-<div align="center">
-
-| Stage | Focus | Goal |
-|:---:|---|---|
-| 01 | Python Fundamentals | Build the basics |
-| 02 | Control Flow & Functions | Develop logic |
-| 03 | Collections & Strings | Manage data |
-| 04 | Object-Oriented Programming | Write structured code |
-| 05 | File & Exception Handling | Build reliable programs |
-| 06 | Algorithms & Problem Solving | Think efficiently |
-
-</div>
-
-*This roadmap represents my learning direction and will evolve with my coursework.*
+```bash
+jupyter notebook
+```
 
 ---
 
@@ -304,17 +299,38 @@ python filename.py
 
 <div align="center">
 
-**BS Artificial Intelligence**
-
-Aror University of Art, Architecture, Design & Heritage
-
-**Course:** Python Programming
-
-**Programming Language:** Python
-
-**Academic Work:** Semester Laboratory Assignments
+| Category | Details |
+|:---:|---|
+| 🎓 Degree | BS Artificial Intelligence |
+| 🏛️ University | Aror University of Art, Architecture, Design & Heritage |
+| 📚 Course | Python Programming |
+| 📅 Semester | 2nd Semester |
+| 💻 Language | Python |
+| 🎯 Focus | Programming, Data Science & AI |
 
 </div>
+
+---
+
+## 🌱 Learning Journey
+
+<div align="center">
+
+| Learning Stage | Focus Area |
+|:---:|---|
+| 01 | Python Fundamentals |
+| 02 | Control Flow & Functions |
+| 03 | Collections & Strings |
+| 04 | Object-Oriented Programming |
+| 05 | File & Exception Handling |
+| 06 | Data Structures & Algorithms |
+| 07 | NumPy & Pandas |
+| 08 | Data Visualization |
+| 09 | Machine Learning Foundations |
+
+</div>
+
+*This roadmap represents my learning direction, not a claim that every topic has already been completed.*
 
 ---
 
@@ -322,15 +338,15 @@ Aror University of Art, Architecture, Design & Heritage
 
 <div align="center">
 
-### "Every line of code is a step toward becoming a better developer."
+### "Don't just learn to code. Learn to think like a programmer."
 
 <br/>
 
-**LEARN** 🧠 → **PRACTICE** 💻 → **DEBUG** 🔧 → **IMPROVE** 🚀
+**EXPLORE** → **LEARN** → **PRACTICE** → **CREATE** → **INNOVATE**
 
 <br/>
 
-Starting small. Thinking big. Building something meaningful.
+Every small program is a step toward a bigger achievement.
 
 </div>
 
@@ -338,21 +354,19 @@ Starting small. Thinking big. Building something meaningful.
 
 ## 🤝 Feedback & Contributions
 
-Learning becomes better when knowledge is shared.
+Knowledge grows when it is shared.
 
-If you have suggestions, alternative solutions, or improvements, feel free to share your feedback.
+I welcome constructive feedback, suggestions, alternative solutions, and ideas for improving the code and documentation.
 
-Your ideas and constructive suggestions are always appreciated!
-
-If you find this repository useful, don't forget to give it a ⭐ **Star**.
+If you find this repository useful, consider giving it a ⭐ **Star**!
 
 ---
 
-## 👨‍💻 About the Developer
+## 👨‍💻 Connect With Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MUHAMMAD_TAHA_SHAIKH-Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUHAMMAD_TAHA_SHAIKH-Python_Developer-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### Muhammad Taha Shaikh
 
@@ -361,7 +375,7 @@ If you find this repository useful, don't forget to give it a ⭐ **Star**.
 <br/>
 
 <a href="https://github.com/Taha-Shaikh7">
-<img src="https://img.shields.io/badge/GitHub-Taha--Shaikh7-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -370,10 +384,10 @@ If you find this repository useful, don't forget to give it a ⭐ **Star**.
 
 <br/><br/>
 
-**From Zero To Hero — One Program at a Time.**
+### 🐍 From Zero To Hero — One Program at a Time.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00A8E8&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6A11CB,50:9B23EA,100:FF8C42&section=footer" width="100%"/>
 
 </div>
